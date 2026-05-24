@@ -59,17 +59,13 @@ EchoTrace/requirements/
 ## 1️⃣ LLMRec Environment
 
 ```bash
-conda create -n llmrec python=3.10
-conda activate llmrec
-pip install -r requirements/llmrec.txt
+conda env create -n llmrec -f /EchoTrace/environment_llmrec.yml
 ```
 
 ## 2️⃣ A-LLMRec Environment
 
 ```bash
-conda create -n allmrec python=3.10
-conda activate allmrec
-pip install -r requirements/allmrec.txt
+conda env create -n allmrec -f /EchoTrace/environment_allmrec.yml
 ```
 
 ## 3️⃣ Cold-item Augmentation Environment
