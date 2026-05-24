@@ -43,6 +43,7 @@ EchoTrace/data/
 |----------|------|
 | **Amazon Books** | https://jmcauley.ucsd.edu/data/amazon/ |
 | **MovieLens-1M** | https://grouplens.org/datasets/movielens/1m/ |
+| **Yelp** | https://business.yelp.com/data/resources/open-dataset/ |
 
 ---
 
