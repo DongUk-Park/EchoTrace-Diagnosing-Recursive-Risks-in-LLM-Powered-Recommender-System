@@ -1,4 +1,4 @@
-# EchoTrace-Diagnosing-Recursive-Risks-in-LLM-Powered-Recommender-System
+# EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recommender System
 
 # EchoTrace
 
@@ -8,7 +8,7 @@
 
 Official implementation of:
 
-> **Echoes in the Loop: Diagnosing Risks in LLM-Powered Recommender Systems under Feedback Loops**
+> **EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recommender System**
 
 This repository provides implementations of multiple LLM-powered recommendation baselines under iterative feedback loops.
 
